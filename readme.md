@@ -64,4 +64,3 @@ The main components of the code are:
 - **Winning and Tie Conditions**: Functions to check if the game has been won or if it ends in a tie.
 - **Optimal Move Algorithm**: Logic to determine the computer's optimal move.
 
-## Example Session
